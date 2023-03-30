@@ -8,11 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/josephoyedapo/CS480A/480A-Project/George-Oyedapo/CovertChannel-RNG/channel/drng/drng.cpp" "channel/drng/CMakeFiles/cc_drng.dir/drng.cpp.o" "gcc" "channel/drng/CMakeFiles/cc_drng.dir/drng.cpp.o.d"
+  "/home/joyedap1/CS480A/480A-Project/George-Oyedapo/CovertChannel-RNG/channel/drng/drng.cpp" "channel/drng/CMakeFiles/cc_drng.dir/drng.cpp.o" "gcc" "channel/drng/CMakeFiles/cc_drng.dir/drng.cpp.o.d"
   )
 
-# Targets to which this target links which contain Fortran sources.
-set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
   )
 
 # Fortran module output directory.
